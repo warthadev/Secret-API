@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "isi": "^0.20.2205194",
+    "node-fetch": "^3.3.2"
+  }
+}
